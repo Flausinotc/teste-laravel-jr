@@ -26,8 +26,8 @@ Antes de rodar o projeto, certifique-se de ter as seguintes ferramentas instalad
 Clone o repositório para a sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone "..."
+cd "..."
 Passo 2: Instalando as Dependências
 Instale as dependências do Laravel utilizando o Composer:
 
