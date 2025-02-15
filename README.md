@@ -1,25 +1,31 @@
-Projeto - Cadastro de Produtos via API do Mercado Livre
+# Projeto - Cadastro de Produtos via API do Mercado Livre
+
 Este é um projeto de exemplo desenvolvido em Laravel, que permite o cadastro de produtos diretamente no Mercado Livre utilizando a API oficial. O projeto inclui um formulário para o cadastro de produtos, integração com a API do Mercado Livre, e o armazenamento de produtos em um banco de dados MySQL.
 
-Tecnologias Utilizadas
-PHP 8.x
-Laravel 8.x
-MySQL
-GuzzleHTTP para requisições HTTP
-Bootstrap (para front-end simples)
-Pré-requisitos
+## Tecnologias Utilizadas
+
+- PHP 8.x
+- Laravel 8.x
+- MySQL
+- GuzzleHTTP para requisições HTTP
+- Bootstrap (para front-end simples)
+
+## Pré-requisitos
+
 Antes de rodar o projeto, certifique-se de ter as seguintes ferramentas instaladas:
 
-PHP 8.x ou superior
-Composer
-MySQL
-Git
-Configuração do Projeto
-Passo 1: Clonando o Repositório
+- PHP 8.x ou superior
+- Composer
+- MySQL
+- Git
+
+## Configuração do Projeto
+
+### Passo 1: Clonando o Repositório
+
 Clone o repositório para a sua máquina local:
 
-bash
-Copy
+```bash
 git clone "URL_DO_REPOSITORIO"
 cd "NOME_DA_PASTA"
 Passo 2: Instalando as Dependências
